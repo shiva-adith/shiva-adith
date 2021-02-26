@@ -7,8 +7,8 @@
 - 🔭 I’m currently working on a [Flask Blogsite][website]!
 - 🌱 I’m currently learning everything (quite literally) 🤣
 - 👯 I’m looking to collaborate with other content creators and developers
-- 🥅 2020 Goals: Develop practical applications and contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums. BTW, I practice Muay Thai and am a blackbelt certified Taekwondo instructor.
+- 🥅 2021 Goals: Develop practical applications and contribute more to Open Source projects
+- ⚡ Playing instruments, sketching, Bingewatching, practicing Muay Thai and Taekwondo(Blackbelt certified instructor) are all I do apart from the above. 
 
 
 ### Connect with me:
