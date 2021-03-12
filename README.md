@@ -5,8 +5,8 @@
 ### I'm a Student of Software Engineering, Mechanical Engineer graduate, Developer, and Data Scientist/ML Engineer!
 
 <!-- - 🔭 I’m currently working on a [Flask Blogsite][website]! -->
-- 🔭 I’m currently working on Computer vision applications using Deep Learning technology!
-- 🌱 I’m currently learning everything (quite literally 🤣) whilst also pursuing a Master's Degree
+- 🔭 I’m currently working on Computer vision applications using Deep Learning technology, and also a Blogsite using the Django framework!
+- 🌱 I’m currently learning everything programming related (quite literally 🤣) whilst also pursuing a Master's Degree
 - 👯 I’m looking to collaborate with other content creators and developers
 - 🥅 2021 Goals: Develop practical applications and contribute more to Open Source projects
 - ⚡ In my free time I play instruments, sketch, Bingewatch shows and movies, practice Muay Thai and Taekwondo (Blackbelt certified instructor).
