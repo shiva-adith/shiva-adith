@@ -1,14 +1,14 @@
-### Hi there, I'm Shiva - [website] 👋🏾🤝🏾
+### Hi there, I'm Shivaadith - [website] 👋🏾🤝🏾
 
 <br />
 
-### I'm a Student of Software Engineering, Mechanical Engineer graduate, Developer, and Data Scientist/ML Engineer!
+### I'm a Materials Science Graduate from ASU with experience in Data Sicence and ML/DL, and Computational Materials!
 
 <!-- - 🔭 I’m currently working on a [Flask Blogsite][website]! -->
-- 🔭 I’m currently working on Computer vision applications using Deep Learning technology, and also a Blogsite using the Django framework!
-- 🌱 I’m currently learning everything programming related (quite literally 🤣) whilst also pursuing a Master's Degree
-- 👯 I’m looking to collaborate with other content creators and developers
-- 🥅 2021 Goals: Develop practical applications and contribute more to Open Source projects
+- 🔭 I’m currently working on Machine Learning applications in Materials Science, and also a Blogsite using the Django framework!
+- 🌱 I’m currently looking for jobs that involve engineering, data science and programming - I am good at combining the three!
+- 👯 I’m looking to collaborate with other content creators and developers as well!
+- 🥅 2024 Goals: Develop practical applications and contribute more to Open Source projects
 - ⚡ In my free time I play instruments, sketch, Bingewatch shows and movies, practice Muay Thai and Taekwondo (Blackbelt certified instructor).
 
 
@@ -16,7 +16,7 @@
 
 [<img align="left" alt="https://shiva-adith.github.io/my_portfolio/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="shivaadith-anbarasu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="shiva._.adith | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="shiva_adith | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
